@@ -6,6 +6,9 @@ This is backdoor project, `war` file will be in Releases.
 ## Demo
 ![demo](demo.png)
 
+## Note
+
+If you are success to upload and open it up show 404, you may need to browse `http://<tomcat_url>/JSPCollection/index.jsp` manualy.
 
 ## Support
 ### For Windows:
